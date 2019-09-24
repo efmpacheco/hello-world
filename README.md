@@ -1,3 +1,4 @@
 # hello-world
 Public - Entry point
-First edit
+GIT rsources:
+A succesfull Git branching model: https://nvie.com/posts/a-successful-git-branching-model/
